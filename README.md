@@ -1,4 +1,4 @@
-# Light Qualys API CLI TOOL
+# Light Qualys API CLI Tool
 A simple implementation of the Qualys API.
 
 ### Note
